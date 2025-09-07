@@ -7,7 +7,7 @@
 
 **课程介绍**：本课程将介绍中学数学竞赛（包括MOEMS、Mathcounts、AMC 8/10）中常见的各类专题和技巧，涵盖代数、组合、概率、数论及几何各个方向。课程内容将包括专题讲座与课堂互动讨论，旨在激发学生对数学的兴趣，从而让学生更自我推动的去准备数学竞赛。该课程适合五年级至八年级并且对中文学校学校基础课程学有余力的同学。2025-2026学年计划的课程内容包含代数，几何和三角学。新学期的课程不需要之前上过此课程。第一部分的计划是使用苏联数学家盖尔凡德写给中学生的代数作为教材讲授代数。
 
-2025年春季课程主页参考如下（新学期将使用新教材和新内容）：[Link](https://github.com/math-zhu/middle_school_math_competitions)
+上一个学期2025年春季课程主页参考如下（新学期将使用新教材和新内容）：[Link](https://github.com/math-zhu/middle_school_math_competitions)
 
 **Course Information**:  Course Introduction: This course will provide an in-depth exploration of common topics and strategies in middle school math competitions, including MOEMS, Mathcounts, and AMC 8/10. It will cover a range of areas such as algebra, combinatorics, probability, number theory, and geometry. The course will include both lectures and interactive class discussions, with the goal of sparking students' interest in mathematics and helping them more self-motivated to prepare the competition. This course is suitable for students in grades 5 through 8 who have a strong grasp of the foundational curriculum offered by Chinese schools. The planned content for the 2025–2026 academic year includes algebra, geometry, and trigonometry. Prior enrollment in this course is not required. The first part of the course will use Algebra, written by Soviet mathematician Israel Gelfand for high school students, as the primary textbook to teach algebra.
 
@@ -27,7 +27,7 @@ The Spring 2025 course homepage is provided for reference below (the new semeste
 
 | Date  | Lecture Notes  | Reading | Homeworks  | Homework Solutions  
 |---|---|---|---|---|
-| 1/4  | [N1](Notes/N1.pdf) |  |   | [HW1](Homeworks/Math_HW_1.ipynb) | 
+| 9/6  | [N1](Notes/N1.pdf) | p1-p21 | Problem 1-38 (ignore problems with solutions)  | [HW1](Homeworks/Math_HW_1.ipynb) | 
 <!--| 1/11  | [N2](Notes/N2.pdf)  |  p137-p147 | p138, 4.530, 4.630<br>p139, 4.730, 4.830<br>p142, 4.050, 4.450<br>p144, 4.080, 4.280<br>p146, 4.090, 4.190  |  [HW2](Homeworks/Math_HW_2.ipynb) |  
 | 1/18  | [N3](Notes/N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |  [HW3](Homeworks/Math_HW_3.ipynb)  |
 | 1/25  | [N4](Notes/N4.pdf)  | p155-p162  |  p156, 4.271, 4.371, 4.471, 4.571<br>p158, 4.081, 4.381, 4.581, 4.881, <br>p160, 4.091, 4.191, 4.291, 4.391 |  [HW4](Homeworks/Math_HW_4.ipynb) | 
