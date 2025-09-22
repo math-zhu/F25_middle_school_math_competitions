@@ -27,8 +27,8 @@ The Spring 2025 course homepage is provided for reference below (the new semeste
 
 | Date  | Lecture Notes  | Reading | Homeworks  | Homework Solutions  
 |---|---|---|---|---|
-| 9/6  | [N1](Notes/N1.pdf) | p1-p21 | Problem 1-38 (for problems with solutions, try hide the solution and solve it on your own)  | [HW1](Homeworks/HW_1.md) | 
-| 9/13  | [N2](Notes/N2.pdf)  | p22-p36  | Problem 39-66  |  [HW2](Homeworks/HW_2.md) | 
+| 9/6  | [N1](Notes/N1.pdf) | p1-p21 | Problem 1-38 (for problems with solutions, try hide the solution and solve it on your own)  | [HW1](Homeworks/HW1.md) | 
+| 9/13  | [N2](Notes/N2.pdf)  | p22-p36  | Problem 39-66  |  [HW2](Homeworks/HW2.md) | 
 | 1/11  | [N3](Notes/N3.pdf)  |  p36-p46, p49-p50 | Problem 67-90, 99-105  |  [HW2](Homeworks/HW3.md) |  
 <!--| 1/18  | [N3](Notes/N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |  [HW3](Homeworks/Math_HW_3.ipynb)  |
 | 1/25  | [N4](Notes/N4.pdf)  | p155-p162  |  p156, 4.271, 4.371, 4.471, 4.571<br>p158, 4.081, 4.381, 4.581, 4.881, <br>p160, 4.091, 4.191, 4.291, 4.391 |  [HW4](Homeworks/Math_HW_4.ipynb) | 
