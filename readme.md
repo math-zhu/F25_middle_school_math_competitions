@@ -27,10 +27,10 @@ The Spring 2025 course homepage is provided for reference below (the new semeste
 
 | Date  | Lecture Notes  | Reading | Homeworks  | Homework Solutions  
 |---|---|---|---|---|
-| 9/6  | [N1](Notes/N1.pdf) | p1-p21 | Problem 1-38 (for problems with solutions, try hide the solution and solve it on your own)  | [HW1](Homeworks/Math_HW_1.ipynb) | 
-| 9/13  | [N2](Notes/N2.pdf)  | p22-p36  | Problem 39-66  |  [HW2](Homeworks/Math_HW_2.ipynb) | 
-<!--| 1/11  | [N2](Notes/N2.pdf)  |  p137-p147 | p138, 4.530, 4.630<br>p139, 4.730, 4.830<br>p142, 4.050, 4.450<br>p144, 4.080, 4.280<br>p146, 4.090, 4.190  |  [HW2](Homeworks/Math_HW_2.ipynb) |  
-| 1/18  | [N3](Notes/N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |  [HW3](Homeworks/Math_HW_3.ipynb)  |
+| 9/6  | [N1](Notes/N1.pdf) | p1-p21 | Problem 1-38 (for problems with solutions, try hide the solution and solve it on your own)  | [HW1](Homeworks/HW_1.md) | 
+| 9/13  | [N2](Notes/N2.pdf)  | p22-p36  | Problem 39-66  |  [HW2](Homeworks/HW_2.md) | 
+| 1/11  | [N3](Notes/N3.pdf)  |  p36-p46, p49-p50 | Problem 67-90, 99-105  |  [HW2](Homeworks/HW3.md) |  
+<!--| 1/18  | [N3](Notes/N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |  [HW3](Homeworks/Math_HW_3.ipynb)  |
 | 1/25  | [N4](Notes/N4.pdf)  | p155-p162  |  p156, 4.271, 4.371, 4.471, 4.571<br>p158, 4.081, 4.381, 4.581, 4.881, <br>p160, 4.091, 4.191, 4.291, 4.391 |  [HW4](Homeworks/Math_HW_4.ipynb) | 
 | 2/15  | [N5](Notes/N5.pdf)  | p161-p170  |  p162, 4.002,4.102<br>p164, 4.212, 4.312, 4.412, 4.512<br>p166, 4.122, 4.222<br>p171, 4.232, 4.432, 4.632 |  [HW5](Homeworks/Math_HW_5.ipynb) | 
 | 2/22  | [N6](Notes/N6.pdf)  | p52-p57  |  p57, 1.061,1.161, 1.261,1.461,1.761, 1.861 |  [HW6](Homeworks/Math_HW_6.ipynb) | 
