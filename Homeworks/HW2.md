@@ -18,7 +18,7 @@ $$\frac{a+c}{b+d}-\frac{a}{b}=\frac{ab+cb-ab-ad}{b(b+d)}=\frac{cb-ad}{b(b+d)}$$
 This implies $\frac{a+c}{b+d}>\frac{a}{b}$ and they are neighbor fractions. Same argument works for $\frac{a+c}{b+d}<\frac{c}{d}$.
 
 (c) If $\frac{e}{f}$ is another neighbor fraction, let us assume that $\frac{a}{b}<\frac{e}{f}<\frac{c}{d}$. Then 
-$eb-fa=1$ and $cf-ed=1$ so we get $$e(b+d)=f(a+c).$$ In other words, $\frac{e}{f}$ is the same as $\frac{a+c}{b+d}$ after simplification. But $\frac{a+c}{b+d}$ cannot be simplified because it is a neighbor fraction. So $e$ cannot be smaller than $b+d$.
+$eb-fa=1$ and $cf-ed=1$ so we get $$e(b+d)=f(a+c).$$ In other words, $\frac{e}{f}$ is the same as $\frac{a+c}{b+d}$ after simplification. But $\frac{a+c}{b+d}$ cannot be simplified because it is a neighbor fraction. So $f$ cannot be smaller than $b+d$.
 
 **Problem 43**: 
 So you can find that the same color pieces cannot appear twice in a segment (because $\frac{1}{7}$ and $\frac{1}{13}$ are both greater than $\frac{1}{20}$) and using the formula in the book, there will always be $\frac{k+l}{20}$ between each red and green mark. So each segment has exactly a red or green line on it.
