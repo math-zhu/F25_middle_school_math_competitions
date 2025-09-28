@@ -27,10 +27,10 @@ a^2+b^2+c^2+2ab+2ac+2bc$
 **Problem 75**: $(a+b+c)(a+b-c) = ((a+b)+c)((a+b)-c) = (a+b)^2 - c^2 = a^2 + 2ab + b^2 - c^2$
 
 
-**Problem 76**: ($\textcolor{red}{Wrong}$) $(a+b+c)(a-b-c) = (a+(b+c))(a-(b+c)) = a^2-(b+c)^2 = a^2-b^2+2bc+c^2$
+**Problem 76**: $(a+b+c)(a-b-c) = (a+(b+c))(a-(b+c)) = a^2-(b+c)^2 = a^2-(b^2+c^2+2bc) = a^2-b^2-c^2-2bc$
 
 
-**Problem 77**: ($\textcolor{red}{Wrong}$) $(a+b-c)(a-b+c) = (a+(b-c))(a-(b-c)) = a^2-(b-c)^2 = a^2 - b^2 - 2bc+c^2$
+**Problem 77**: $(a+b-c)(a-b+c) = (a+(b-c))(a-(b-c)) = a^2-(b-c)^2 = a^2 - (b^2 - 2bc+c^2) = a^2 - b^2+2bc-c^2$
 
 
 **Problem 78**:$(a^2-2ab+b^2)(a+2ab+b^2) = (a-b)^2(a+b)^2 = ((a-b)(a+b))^2 = (a^2-b^2)^2 = a^4-2a^2b^2+b^4$ 
@@ -84,13 +84,50 @@ a^2+b^2+c^2+2ab+2ac+2bc$
 
 **Problem 90**: 
 * $(1+x)(1+x^2) = 1+x^2 + x + x^3 = x^3+x^2+x+1$
-* ($\textcolor{red}{Wrong}$) $(1+x)(1+x^2)(1+x^4)(1+x^8) = ((1+x)(1+x^2))(1+x^4)(1+x^8) =  (1+x+x^2+x^3)(1+x^4) = 1+x+x^2+x^3+x^4+x^5+x^6+x^7 = 1+x+x^2+x^3+x^4+x^5+x^6+x^7 (1+x^8) = 1+x+x^2+x^3+x^4+x^5+x^6+x^7+x^8+x^9+x^{10}+x^{11}+x^{12}+x^{13}+x^{14}+x^{15}$
-* $(a+b+c+d)^2 = a^2+b^2+c^2+d^2+2ab+2ac+2ad+2bc+2bd+2cd$, So $(1+x+x^2+x^3)^2 = 1+x^2+x^4+x^6+2x+2x^2+2x^3+2x^3+2x^4+2x^5 = 1+ 2x+3x^2+4x^3+3x^4+2x^5+x^6$
-* $(1+x+x^2+x^3\cdots+x^9+x^{10})^2$, You can see that there is a pattern in the coefficients, which is the ocefficients go up and down, so you can get $1+2x+ 3x^2+4x^3+5x^4+6x^5+7x^6+8x^7+9x^8+10x^9+11x^{10}+10x^{11}+9x^{12}+8x^{13}+7x^{ 14}+6x^{15}+5x^{16}+4x^{17}+3x^{18}+2x^{19}+x^{20}$ 
-* ($\textcolor{red}{Wrong}$) Since the only way you can get $x^{30}$ is from the $(x^10)^3$, so the coefficient for $x^{30}$ in this equation would be $1$. For $x^29$, there are also only one because the only way you can get it is from the $x^9\cdot x^10\cdot x^10$, which has three different ways to order them, so the coefficient for $x^{29}$ is equal to three.
-* ($\textcolor{red}{calculate this explicitly}$)If you take $(1-x)(1+x)$ for example, you get $1-x^2$ as an answer. If you do $(1-x)(1+x+x^2)$ you get $1-x^3$, and you can start to see a pattern. So for $(1-x)(1+x+x^2+\cdot +x^9+x^{10})$ you get $1-x^{11}$
+* $$(1+x)(1+x^2)(1+x^4)(1+x^8) = ((1+x)(1+x^2))(1+x^4)(1+x^8) $$
+
+$$=  (1+x+x^2+x^3)(1+x^4) (1+x^8)$$
+
+$$= (1+x+x^2+x^3+x^4+x^5+x^6+x^7)(1+x^8)$$
+
+$$= 1+x+x^2+x^3+x^4+x^5+x^6+x^7+x^8+x^9+x^{10}+x^{11}+x^{12}+x^{13}+x^{14}+x^{15}$$
+* $$(a+b+c+d)^2 = a^2+b^2+c^2+d^2+2ab+2ac+2ad+2bc+2bd+2cd$$ So $(1+x+x^2+x^3)^2 = 1+x^2+x^4+x^6+2x+2x^2+2x^3+2x^3+2x^4+2x^5$  $$= 1+ 2x+3x^2+4x^3+3x^4+2x^5+x^6$$
+* $(1+x+x^2+x^3\cdots+x^9+x^{10})^2$, You can see that there is a pattern in the coefficients, which is the coefficients go up and down, so you can get $1+2x+ 3x^2+4x^3+5x^4+6x^5+7x^6+8x^7+9x^8+10x^9+11x^{10}+10x^{11}+9x^{12}+8x^{13}+7x^{ 14}+6x^{15}+5x^{16}+4x^{17}+3x^{18}+2x^{19}+x^{20}$ 
+* Since the only way you can get $x^{30}$ is from the $(x^{10})^3$, so the coefficient for $x^{30}$ in this equation would be $1$. For $x^{29}$, there are also only one because the only way you can get it is from the $x^9\cdot x^{10}\cdot x^{10}$, which has three different ways to order them, so the coefficient for $x^{29}$ is equal to three.
+* If you take $(1-x)(1+x)$ for example, you get $1-x^2$ as an answer. If you do $(1-x)(1+x+x^2)$ you get $1-x^3$, and you can start to see a pattern. If you do 
+
+$$(1-x)(1+x+x^2+x^3\cdots +x^n)$$ 
+
+$$=(1+x+x^2+x^3\cdots+x^n)-x-x^2-x^3\cdots -x^{n+1}$$ 
+
+you get $$1-x^{n+1}$$ So for $$(1-x)(1+x+x^2+\cdots +x^9+x^{10})$$ $$=1-x^{11}$$
 * $(a+b)(a^2-ab+b^2)= a^3-a^2b+ab^2+a^2b-ab^2+b^3 = a^3+b^3$
-* I don't have an answer for this.
+* There are two solutions for this problem. 
+
+    * We can calculate the expression by brutal force. The first row is $1$ times the second factor and the second row is $x$ times the second factor. The coefficients are collected by looking diagonally. 
+So you see odd degree $x^n$ has coefficient $0$ and even degree has coefficient $1$. So the answer is $$1+x^2+x^4+\cdots+x^{20}$$
+
+
+|   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+| 1  | 1 | 1  | 1 | 1  | 1 | 1  | 1 | 1  | 1 |
+| -1 | -1  | -1 | -1  | -1 | -1  | -1 | -1  | -1 | -1  |
+| 1  | 1 | 1  | 1 | 1  | 1 | 1  | 1 | 1  | 1 |
+
+
+* the second solution is to use previous result. 
+
+$$(1-x)(1+x+x^2+\cdots+x^{10})=1-x^{11}$$
+
+Plug in $x$ by $-x$, we get
+
+$$(1+x)(1-x+x^2+\cdots+x^{10})=1+x^{11}$$
+
+Hence it suffices to calculate
+
+$$\frac{(1-x^{11})(1+x^{11})}{(1-x)(1+x)}=\frac{1-x^{22}}{1-x^2}$$
+
+Use the above formula again by replacing $x$ by $x^2$, we get the same result.
 
 
 
@@ -101,18 +138,18 @@ a^2+b^2+c^2+2ab+2ac+2bc$
 **Problem 100**: $(1+(-1))^2 = 0^2 = 0$
 
 
-**Problem 101**: ($\textcolor{red}{Wrong}$) So you take $x=1$ then you have $(1+2x)^{200} =$ some coefficients plus one, so it will be $2^{200} -1$.
+**Problem 101**: So you take $x=1$ then you have $(1+2x)^{200} = 3^{200}$.
 
 
-**Problem 102**: ($\textcolor{red}{Wrong}$) If you take $x=1$, you get $(1-2)^200 = (-1)^200 = 1$ 
+**Problem 102**:  If you take $x=1$, you get $(1-2)^{200} = (-1)^{200} = 1$ 
 
 
 **Problem 103**: If you expand it you get $1+3x-3y-6xy+3y^2+3x^2+x^3-3x^2y+3xy^2-y^3$, and if you do $x=1$ you get $1$.
 
 
-**Problem 104**: ($\textcolor{red}{Wrong}$)If $x=1$, then $1+3x+3x^2+x^3$ which has a coefficient sum of $8$.
+**Problem 104**: If $x=1$ and $y=0$, then $1+3x-3y-6xy+3y^2+3x^2+x^3-3x^2y+3xy^2-y^3$ you would remove all the terms with $y$ then you get $1+3x+3x^2+x^3$ has a coefficient sum of $8$.
 
 
-**Problem 105**: ($\textcolor{red}{Wrong}$)If $x=1$ then you get $3x-6xy+3x^2+x^3-3x^2y+3xy^2$ and the coefficient sum is $1$. 
+**Problem 105**: If you remove all the terms without $x$, then you get $1+3x-6xy+3x^2+x^3-3x^2y+3xy^2$ and the coefficient sum is $2$. 
 
 
