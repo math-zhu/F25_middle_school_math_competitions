@@ -90,15 +90,15 @@ By using those two equations, $a+b=-2$ and $4a+b=-10$, then you can find that $a
 
 * $P(n)=n^2-n-4$
 * $P(n+1)=(n+1)^2-(n+1)-4=n^2+2n+1-n-1-4=n^2+n-4$
-* $P(n+2)=(n+2)^2-(n+2)-4=n^2+4n+4-n-2-4=n^2-3n-2$
+* $P(n+2)=(n+2)^2-(n+2)-4=n^2+4n+4-n-2-4=n^2+3n-2$
 
 Now you find the difference between each adjacent equations:
 
-* $P(n+1)-P(n)=2n-8$
-* $P(n+1)-P(n+2)=4n-6$
+* $P(n+1)-P(n)=2n$
+* $P(n+1)-P(n+2)=2n+2$
 
 And take the difference again:
-* $(4n-6)-(2n-8)=2n-2$
+* $(2n+2)-(2n)=2$
 
 So the difference between each double difference is $2n-2$, so the difference between each double difference will be the same.
 
