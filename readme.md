@@ -35,6 +35,8 @@ The Spring 2025 course homepage is provided for reference below (the new semeste
 | 10/11  | [N6](Notes/N6.pdf) and Quiz 1 |  p107-p115 |   |   | 
 | 10/18  | [N7](Notes/N7.pdf) |  p107-p120 | Problem 252-270  |  [HW6](Homeworks/HW6.md) | 
 | 10/25  | [N8](Notes/N8.pdf)  | p61-p77 | Problem 136-171  |  [HW7](Homeworks/HW7.md) | 
+| 11/1  | [N9](Notes/N9.pdf)  | p51-p60 | Problem 106-135  |  [HW8](Homeworks/HW8.md) | 
+
 <!--| 1/18  | [N3](Notes/N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |  [HW3](Homeworks/Math_HW_3.ipynb)  |
 | 1/25  | [N4](Notes/N4.pdf)  | p155-p162  |  p156, 4.271, 4.371, 4.471, 4.571<br>p158, 4.081, 4.381, 4.581, 4.881, <br>p160, 4.091, 4.191, 4.291, 4.391 |  [HW4](Homeworks/Math_HW_4.ipynb) | 
 | 2/15  | [N5](Notes/N5.pdf)  | p161-p170  |  p162, 4.002,4.102<br>p164, 4.212, 4.312, 4.412, 4.512<br>p166, 4.122, 4.222<br>p171, 4.232, 4.432, 4.632 |  [HW5](Homeworks/Math_HW_5.ipynb) | 
