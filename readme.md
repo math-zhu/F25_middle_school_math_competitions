@@ -38,6 +38,9 @@ The Spring 2025 course homepage is provided for reference below (the new semeste
 | 11/1  | [N9](Notes/N9.pdf)  | p51-p60 | Problem 106-135  |  [HW8](Homeworks/HW8.md) | 
 | 11/8  | [N10](Notes/N10.pdf)  | p118-127 | Problem 271-293 |  [HW9](Homeworks/HW9.md) | 
 | 11/15  | [N11](Notes/N11.pdf)  | p127-138 | Problem 294-319 |  [HW10](Homeworks/HW10.md) | 
+| 11/22  | [N12](Notes/N12.pdf)  | p139-p149 | Problem 320-342 | [HW11](Homeworks/HW11.md) |
+| 12/6   | Quiz 2 & Q&A Session |  |  |  |
+
 
 
 <!--| 1/18  | [N3](Notes/N3.pdf)  | p148-p153  |  p150, 4.211, 4.411<br>p151, 4.021, 4.321, 4.421<br>p153, 4.331, 4.431, 4.831<br>p154, 4.151, 4.951 |  [HW3](Homeworks/Math_HW_3.ipynb)  |
